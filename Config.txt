@@ -1,0 +1,4 @@
+title=Copy-Paster
+fontsize=18
+fontstyle=Courier
+windowdimensions=250x250
